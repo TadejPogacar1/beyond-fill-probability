@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Queue-Aware Market Making: A Frozen Seven-Day Holdout Study"
+type: software
+authors:
+  - family-names: Zhou
+    given-names: Yifan
+version: 1.0.0
+date-released: 2026-11-12
+license: MIT
